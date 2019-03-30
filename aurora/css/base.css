@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu Regular');
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/user-tags.css");
 @import url('https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css');
 ::selection {background:var(--main-color-faded) !important;}
@@ -280,7 +280,7 @@ body::before {
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
-	font-family:'Satisfy';
+	font-family:'Ubuntu Regular';
 	color: rgba(255,255,255,0.8);
 	font-size: 19px;
 	font-weight:bold;
@@ -989,7 +989,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 /*4.b. Account Deatils Container*/
 .container-2Thooq {background:transparent !important;}
 .accountDetails-3k9g4n .username {
-	font-family:'satisfy';
+	font-family:'Ubuntu Regular';
 	font-weight:800 !important;
 	color:var(--hover-color);
 }
